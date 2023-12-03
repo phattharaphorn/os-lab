@@ -5,7 +5,7 @@
 # Operating Systems - Experiment and Case Study
 Operating Systems (01076011), Computer Engineering 60 at KMITL.
 
-- This repository is about the organization and structure of operating systems. Control, communication, and synchronization of concurrent processes. Processor and job scheduling. Memory organization and management including paging, segmentation, and virtual memory. Resource management. Deadlock avoidance, detection, recovery. File system concepts and structure. Protection and security. Distributed processing. Virtualization and cloud computing.  
+- This repository is about the organization and structure of **operating** **systems**. Control, communication, and **synchronization** **of** **concurrent** **processes**. Processor and job scheduling. Memory organization and management including paging, segmentation, and **virtual** **memory**. Resource management. Deadlock avoidance, detection, recovery. File system concepts and structure. Protection and security. Distributed processing. Virtualization and cloud computing.  
 
 > **Don't** **copy** **the** **code** **and** **writing** **report**, but you can look at it as a guideline.
 
