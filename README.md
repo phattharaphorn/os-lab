@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBhMXE2Z3Y1aXI2eXR1bXdsMjFiOXY1dGhkZTdreDBkdzcyMWxtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOamEbyqLENSKitMHi/giphy.gif" alt="OS gif"/>
+ <img src="https://media.giphy.com/media/QJ8bR5An4VC59FvVcx/giphy.gif" width="50%" hight="50%" alt="OS gif"/>
 </p>
 
 # Operating Systems - Experiment and Case Study
